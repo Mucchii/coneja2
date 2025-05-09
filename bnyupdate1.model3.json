@@ -124,15 +124,15 @@
 		},
 		{
 			"Id": "HitArea_R_Ear",
-			"Name": ""
+			"Name": "HitArea_R_Ear"
 		},
 		{
 			"Id": "HitArea_L_Ear",
-			"Name": ""
+			"Name": "HitArea_L_Ear"
 		},
 		{
 			"Id": "HitArea_Chest",
-			"Name": ""
+			"Name": "HitArea_Chest"
 		}
 	]
 }

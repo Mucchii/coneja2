@@ -1,0 +1,22 @@
+{
+	"Type": "Live2D Expression",
+	"FadeInTime": 0,
+	"FadeOutTime": 0,
+	"Parameters": [
+		{
+			"Id": "cry",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "hand123",
+			"Value": 1,
+			"Blend": "Add"
+		},
+		{
+			"Id": "sad",
+			"Value": 0.293,
+			"Blend": "Add"
+		}
+	]
+}

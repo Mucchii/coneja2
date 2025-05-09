@@ -126,6 +126,8 @@
 					"File": "motions/upset.motion3.json",
 					"FadeInTime": 0,
 					"FadeOutTime": 0
+					"FrameCount" : 61
+					"FPS": 30.0
 				}
 			],
 			"Hearts": [

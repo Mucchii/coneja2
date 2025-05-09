@@ -7,100 +7,101 @@
 		],
 		"Physics": "bnyUPDATE1.physics3.json",
 		"DisplayInfo": "bnyUPDATE1.cdi3.json",
-		"expressions": [
+		"Expressions": [
 			{
 				"Name": "carrot",
-				"File": "../expressions/carrot.exp3.json"
+				"File": "expressions/carrot.exp3.json"
 			},
 			{
 				"Name": "eartouchL",
-				"File": "../expressions/eartouchL.exp3.json"
+				"File": "expressions/eartouchL.exp3.json"
 			},
 			{
 				"Name": "eartouchR",
-				"File": "../expressions/eartouchR.exp3.json"
+				"File": "expressions/eartouchR.exp3.json"
 			},
 			{
 				"Name": "facetouchL",
-				"File": "../expressions/facetouchL.exp3.json"
+				"File": "expressions/facetouchL.exp3.json"
 			},
 			{
 				"Name": "facetouchR",
-				"File": "../expressions/facetouchR.exp3.json"
+				"File": "expressions/facetouchR.exp3.json"
 			},
 			{
 				"Name": "hand",
-				"File": "../expressions/hand.exp3.json"
+				"File": "expressions/hand.exp3.json"
 			},
 			{
 				"Name": "handcry",
-				"File": "../buny123/expressions/handcry.exp3.json"
+				"File": "expressions/handcry.exp3.json"
 			},
 			{
 				"Name": "happy",
-				"File": "../expressions/happy.exp3.json"
+				"File": "expressions/happy.exp3.json"
 			},
 			{
 				"Name": "hearts",
-				"File": "../expressions/hearts.exp3.json"
+				"File": "expressions/hearts.exp3.json"
 			},
 			{
 				"Name": "sad",
-				"File": "../expressions/sad.exp3.json"
+				"File": "expressions/sad.exp3.json"
 			},
 			{
 				"Name": "sadcry",
-				"File": "../expressions/sadcry.exp3.json"
+				"File": "expressions/sadcry.exp3.json"
 			},
 			{
 				"Name": "superhappy",
-				"File": "../expressions/superhappy.exp3.json"
+				"File": "expressions/superhappy.exp3.json"
 			},
 			{
 				"Name": "upset",
-				"File": "../expressions/upset.exp3.json"
+				"File": "expressions/upset.exp3.json"
 			},
 			{
 				"Name": "upset2",
-				"File": "../expressions/upset2.exp3.json"
+				"File": "expressions/upset2.exp3.json"
 			}
 		],
-		"motions": [
+		"Motions": {
+			"Motions": [
 				{
-					"File": "../motions/carrot.motion3.json"
+					"File": "../buny123/motions/carrot.motion3.json"
 				},
 				{
-					"File": "../motions/eartouchL.motion3.json"
+					"File": "../buny123/motions/eartouchL.motion3.json"
 				},
 				{
-					"File": "..//motions/eartouchR.motion3.json"
+					"File": "../buny123/motions/eartouchR.motion3.json"
 				},
 				{
-					"File": "..//motions/facetouchL.motion3.json"
+					"File": "../buny123/motions/facetouchL.motion3.json"
 				},
 				{
-					"File": "../motions/facetouchR.motion3.json"
+					"File": "../buny123/motions/facetouchR.motion3.json"
 				},
 				{
-					"File": "../motions/hand.motion3.json"
+					"File": "../buny123/motions/hand.motion3.json"
 				},
 				{
-					"File": "../motions/hearts.motion3.json"
+					"File": "../buny123/motions/hearts.motion3.json"
 				},
 				{
-					"File": "../motions/idle.motion3.json"
+					"File": "../buny123/motions/idle.motion3.json"
 				},
 				{
-					"File": "../motions/superhappyidle.motion3.json"
+					"File": "../buny123/motions/superhappyidle.motion3.json"
 				},
 				{
-					"File": "../motions/tears.motion3.json"
+					"File": "../buny123/motions/tears.motion3.json"
 				},
 				{
-					"File": "../motions/upset.motion3.json"
+					"File": "../buny123/motions/upset.motion3.json"
 				}
 			]
-		
+		}
 	},
 	"Groups": [
 		{

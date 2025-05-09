@@ -63,6 +63,10 @@
 			{
 				"Name": "upset2",
 				"File": "expressions/upset2.exp3.json"
+			},
+				{
+				"Name": "neutral",
+				"File": "neutral/facetouchR.exp3.json"
 			}
 		],
 "Motions": {

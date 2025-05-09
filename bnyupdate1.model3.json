@@ -97,10 +97,8 @@
 				{
 					"File": "motions/tears.motion3.json"
 				},
-				 "upset": {
-      "file": "buny123/motions/upset.motion3.json",
-      "fadeTime": 0.4,
-      "loop": false
+		 "upset": {
+      "file": "buny123/motions/upset.motion3.json"
     }
 			]
 		}

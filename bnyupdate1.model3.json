@@ -30,7 +30,7 @@
 			},
 			{
 				"Name": "hand",
-				"File": "../buny123/expressions/hand.exp3.json"
+				"File": "../expressions/hand.exp3.json"
 			},
 			{
 				"Name": "handcry",
@@ -83,7 +83,7 @@
 					"File": "../buny123/motions/facetouchR.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/hand.motion3.json"
+					"File": "../motions/hand.motion3.json"
 				},
 				{
 					"File": "../buny123/motions/hearts.motion3.json"

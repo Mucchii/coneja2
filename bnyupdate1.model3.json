@@ -65,41 +65,69 @@
 				"File": "expressions/upset2.exp3.json"
 			}
 		],
-		"Motions": {
-			"Motions": [
-				{
-					"File": "motions/carrot.motion3.json"
-				},
-				{
-					"File": "motions/eartouchL.motion3.json"
-				},
-				{
-					"File": "motions/eartouchR.motion3.json"
-				},
-				{
-					"File": "motions/facetouchL.motion3.json"
-				},
-				{
-					"File": "motions/facetouchR.motion3.json"
-				},
-				{
-					"File": "motions/hand.motion3.json"
-				},
-				{
-					"File": "motions/hearts.motion3.json"
-				},
+"Motions": {
+			"Idle": [
 				{
 					"File": "motions/idle.motion3.json"
-				},
-				{
-					"File": "motions/superhappyidle.motion3.json"
-				},
+				}
+			],
+			"Tears": [
 				{
 					"File": "motions/tears.motion3.json"
-				},
-		 "upset": {
-      "file": "buny123/motions/upset.motion3.json"
-    }
+				}
+			],
+			"Hand": [
+				{
+					"File": "motions/hand.motion3.json"
+				}
+			],
+			"Carrot": [
+				{
+					"File": "motions/carrot.motion3.json"
+				}
+			],
+			"Superhappy": [
+				{
+					"File": "motions/superhappyidle.motion3.json"
+				}
+			],
+			"FacetouchR": [
+				{
+					"File": "motions/facetouchR.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"FacetouchL": [
+				{
+					"File": "motions/facetouchL.motion3.json"
+				}
+			],
+			"Eartouchr": [
+				{
+					"File": "motions/eartouchR.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"Eartouchl": [
+				{
+					"File": "motions/eartouchL.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"Upset": [
+				{
+					"File": "motions/upset.motion3.json",
+					"FadeInTime": 0,
+					"FadeOutTime": 0
+				}
+			],
+			"Hearts": [
+				{
+					"File": "motions/hearts.motion3.json"
+				}
 			]
 		}
 	},

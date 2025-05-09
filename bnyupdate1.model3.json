@@ -68,37 +68,37 @@
 		"Motions": {
 			"Motions": [
 				{
-					"File": "../buny123/motions/carrot.motion3.json"
+					"File": "motions/carrot.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/eartouchL.motion3.json"
+					"File": "motions/eartouchL.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/eartouchR.motion3.json"
+					"File": "motions/eartouchR.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/facetouchL.motion3.json"
+					"File": "motions/facetouchL.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/facetouchR.motion3.json"
+					"File": "motions/facetouchR.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/hand.motion3.json"
+					"File": "motions/hand.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/hearts.motion3.json"
+					"File": "motions/hearts.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/idle.motion3.json"
+					"File": "motions/idle.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/superhappyidle.motion3.json"
+					"File": "motions/superhappyidle.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/tears.motion3.json"
+					"File": "motions/tears.motion3.json"
 				},
 				{
-					"File": "../buny123/motions/upset.motion3.json"
+					"File": "motions/upset.motion3.json"
 				}
 			]
 		}

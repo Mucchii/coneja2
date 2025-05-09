@@ -65,7 +65,8 @@
 				"File": "expressions/upset2.exp3.json"
 			}
 		],
-		"Motions": [
+		"Motions": {
+			"Motions": [
 				{
 					"File": "../buny123/motions/carrot.motion3.json"
 				},
@@ -100,7 +101,7 @@
 					"File": "../buny123/motions/upset.motion3.json"
 				}
 			]
-		
+		}
 	},
 	"Groups": [
 		{

@@ -7,7 +7,7 @@
 		],
 		"Physics": "bnyUPDATE1.physics3.json",
 		"DisplayInfo": "bnyUPDATE1.cdi3.json",
-		"Expressions": [
+		"expressions": [
 			{
 				"Name": "carrot",
 				"File": "../buny123/expressions/carrot.exp3.json"
@@ -65,7 +65,8 @@
 				"File": "../buny123/expressions/upset2.exp3.json"
 			}
 		],
-		"Motions":  [
+		"motions": {  
+		"motions" : [
 				{
 					"File": "../buny123/motions/carrot.motion3.json"
 				},

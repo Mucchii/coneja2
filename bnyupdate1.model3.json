@@ -1,0 +1,138 @@
+{
+	"Version": 3,
+	"FileReferences": {
+		"Moc": "bnyUPDATE1.moc3",
+		"Textures": [
+			"bnyUPDATE1.4096/texture_00.png"
+		],
+		"Physics": "bnyUPDATE1.physics3.json",
+		"DisplayInfo": "bnyUPDATE1.cdi3.json",
+		"Expressions": [
+			{
+				"Name": "carrot",
+				"File": "../buny123/expressions/carrot.exp3.json"
+			},
+			{
+				"Name": "eartouchL",
+				"File": "../buny123/expressions/eartouchL.exp3.json"
+			},
+			{
+				"Name": "eartouchR",
+				"File": "../buny123/expressions/eartouchR.exp3.json"
+			},
+			{
+				"Name": "facetouchL",
+				"File": "../buny123/expressions/facetouchL.exp3.json"
+			},
+			{
+				"Name": "facetouchR",
+				"File": "../buny123/expressions/facetouchR.exp3.json"
+			},
+			{
+				"Name": "hand",
+				"File": "../buny123/expressions/hand.exp3.json"
+			},
+			{
+				"Name": "handcry",
+				"File": "../buny123/expressions/handcry.exp3.json"
+			},
+			{
+				"Name": "happy",
+				"File": "../buny123/expressions/happy.exp3.json"
+			},
+			{
+				"Name": "hearts",
+				"File": "../buny123/expressions/hearts.exp3.json"
+			},
+			{
+				"Name": "sad",
+				"File": "../buny123/expressions/sad.exp3.json"
+			},
+			{
+				"Name": "sadcry",
+				"File": "../buny123/expressions/sadcry.exp3.json"
+			},
+			{
+				"Name": "superhappy",
+				"File": "../buny123/expressions/superhappy.exp3.json"
+			},
+			{
+				"Name": "upset",
+				"File": "../buny123/expressions/upset.exp3.json"
+			},
+			{
+				"Name": "upset2",
+				"File": "../buny123/expressions/upset2.exp3.json"
+			}
+		],
+		"Motions": {
+			"": [
+				{
+					"File": "../buny123/motions/carrot.motion3.json"
+				},
+				{
+					"File": "../buny123/motions/eartouchL.motion3.json"
+				},
+				{
+					"File": "../buny123/motions/eartouchR.motion3.json"
+				},
+				{
+					"File": "../buny123/motions/facetouchL.motion3.json"
+				},
+				{
+					"File": "../buny123/motions/facetouchR.motion3.json"
+				},
+				{
+					"File": "../buny123/motions/hand.motion3.json"
+				},
+				{
+					"File": "../buny123/motions/hearts.motion3.json"
+				},
+				{
+					"File": "../buny123/motions/idle.motion3.json"
+				},
+				{
+					"File": "../buny123/motions/superhappyidle.motion3.json"
+				},
+				{
+					"File": "../buny123/motions/tears.motion3.json"
+				},
+				{
+					"File": "../buny123/motions/upset.motion3.json"
+				}
+			]
+		}
+	},
+	"Groups": [
+		{
+			"Target": "Parameter",
+			"Name": "EyeBlink",
+			"Ids": [
+				"ParamEyeLOpen"
+			]
+		},
+		{
+			"Target": "Parameter",
+			"Name": "LipSync",
+			"Ids": []
+		}
+	],
+	"HitAreas": [
+		{
+			"Id": "HitArea_Head",
+			"Name": "HitArea_Head"
+		},
+		{
+			"Id": "HitArea_R_Ear",
+			"Name": ""
+		},
+		{
+			"Id": "HitArea_L_Ear",
+			"Name": ""
+		},
+		{
+			"Id": "HitArea_Chest",
+			"Name": ""
+		}
+	]
+}

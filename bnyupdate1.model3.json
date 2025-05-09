@@ -65,8 +65,7 @@
 				"File": "expressions/upset2.exp3.json"
 			}
 		],
-		"Motions": {
-			"Motions": [
+		"Motions": [
 				{
 					"File": "../buny123/motions/carrot.motion3.json"
 				},

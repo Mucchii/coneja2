@@ -10,23 +10,23 @@
 		"expressions": [
 			{
 				"Name": "carrot",
-				"File": "../buny123/expressions/carrot.exp3.json"
+				"File": "../expressions/carrot.exp3.json"
 			},
 			{
 				"Name": "eartouchL",
-				"File": "../buny123/expressions/eartouchL.exp3.json"
+				"File": "../expressions/eartouchL.exp3.json"
 			},
 			{
 				"Name": "eartouchR",
-				"File": "../buny123/expressions/eartouchR.exp3.json"
+				"File": "../expressions/eartouchR.exp3.json"
 			},
 			{
 				"Name": "facetouchL",
-				"File": "../buny123/expressions/facetouchL.exp3.json"
+				"File": "../expressions/facetouchL.exp3.json"
 			},
 			{
 				"Name": "facetouchR",
-				"File": "../buny123/expressions/facetouchR.exp3.json"
+				"File": "../expressions/facetouchR.exp3.json"
 			},
 			{
 				"Name": "hand",

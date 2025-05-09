@@ -1,6 +1,6 @@
 {
 	"Type": "Live2D Expression",
-		"FadeInTime": 0,
-	"FadeOutTime": 0,
+		"FadeInTime": 1000,
+	"FadeOutTime": 1000,
 	"Parameters": []
 }

@@ -1,7 +1,7 @@
 {
 	"Version": 3,
 	"Meta": {
-		"Duration": 10.367,
+		"Duration": 3,
 		"Fps": 30.0,
 		"Loop": false,
 		"AreBeziersRestricted": true,
